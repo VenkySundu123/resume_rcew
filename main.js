@@ -20,7 +20,7 @@ basics(data.left);
  var left=document.createElement("div");
  left.classList.add("left");
 
- left.textContent="profile details";
+ left.textContent="profile details of me";
  left.appendChild(document.createElement("HR"));
   main.appendChild(left);
 function basics(leftside) {
