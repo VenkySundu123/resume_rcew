@@ -4,5 +4,45 @@
     "name":"k.priyanka",
     "email":"abc@gmail.com",
     "phone":"22222"
-  }
+  },
+  "ed":[{
+    "course":"Btech(computer science and eng)",
+    "college":[
+      "Ravindra college of engineering for women",
+      "2015-2019",
+        "82%"
+    ]
+    },
+    {
+      "course":"inter(mpc)",
+      "college":[
+        "Ravindra jr college ",
+        "2013-2015",
+          "90%"
+]
+      },
+      {
+        "course":"ssc",
+        "college":[
+          "zp high school",
+          "2012-2013",
+            "82%"
+]
+        }],
+        "skills":[{
+          "name":"operating systems",
+           "value":"ubuntu,sql"
+
+        },
+        {
+          "name":"programming languages",
+           "value":"html,c,c++,java,js,php"
+        },
+        {
+          "name":"web development",
+          "value":"html,python"
+        }
+
+        ]
+
 }
